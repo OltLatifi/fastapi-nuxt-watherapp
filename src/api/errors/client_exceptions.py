@@ -1,0 +1,2 @@
+class ClientGatewayException(Exception):
+    pass
